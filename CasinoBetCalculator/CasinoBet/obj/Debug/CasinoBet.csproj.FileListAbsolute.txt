@@ -1,0 +1,7 @@
+c:\Users\Deni\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+c:\Users\Deni\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+c:\Users\Deni\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+c:\Users\Deni\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\CasinoBet.csprojAssemblyReference.cache
+c:\Users\Deni\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\CasinoBet.csproj.CoreCompileInputs.cache
+c:\Users\Deni\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+c:\Users\Deni\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
