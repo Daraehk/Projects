@@ -1,0 +1,10 @@
+C:\Users\Deni\source\repos\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\Deni\source\repos\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\Deni\source\repos\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\Deni\source\repos\Generics\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\Deni\source\repos\Generics\Generics\obj\Debug\Generics.Form1.resources
+C:\Users\Deni\source\repos\Generics\Generics\obj\Debug\Generics.Properties.Resources.resources
+C:\Users\Deni\source\repos\Generics\Generics\obj\Debug\Generics.csproj.GenerateResource.cache
+C:\Users\Deni\source\repos\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Deni\source\repos\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\Deni\source\repos\Generics\Generics\obj\Debug\Generics.pdb
