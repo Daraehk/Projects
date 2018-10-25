@@ -1,0 +1,15 @@
+C:\Users\Deni\source\repos\DominoHours\DominoHours\bin\Debug\DominoHours.exe.config
+C:\Users\Deni\source\repos\DominoHours\DominoHours\bin\Debug\DominoHours.exe
+C:\Users\Deni\source\repos\DominoHours\DominoHours\bin\Debug\DominoHours.pdb
+C:\Users\Deni\source\repos\DominoHours\DominoHours\obj\Debug\DominoHours.csprojAssemblyReference.cache
+C:\Users\Deni\source\repos\DominoHours\DominoHours\obj\Debug\MainWindow.g.cs
+C:\Users\Deni\source\repos\DominoHours\DominoHours\obj\Debug\App.g.cs
+C:\Users\Deni\source\repos\DominoHours\DominoHours\obj\Debug\DominoHours_MarkupCompile.cache
+C:\Users\Deni\source\repos\DominoHours\DominoHours\obj\Debug\DominoHours_MarkupCompile.lref
+C:\Users\Deni\source\repos\DominoHours\DominoHours\obj\Debug\MainWindow.baml
+C:\Users\Deni\source\repos\DominoHours\DominoHours\obj\Debug\DominoHours.g.resources
+C:\Users\Deni\source\repos\DominoHours\DominoHours\obj\Debug\DominoHours.Properties.Resources.resources
+C:\Users\Deni\source\repos\DominoHours\DominoHours\obj\Debug\DominoHours.csproj.GenerateResource.cache
+C:\Users\Deni\source\repos\DominoHours\DominoHours\obj\Debug\DominoHours.csproj.CoreCompileInputs.cache
+C:\Users\Deni\source\repos\DominoHours\DominoHours\obj\Debug\DominoHours.exe
+C:\Users\Deni\source\repos\DominoHours\DominoHours\obj\Debug\DominoHours.pdb
